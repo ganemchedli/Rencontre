@@ -99,6 +99,7 @@
     ?>
     <br>
     <button class="button"><a href="ajout.php">S'inscrire</a></button>
+    
   </section><!-- content -->
 </div><!-- container -->
 </body>

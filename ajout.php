@@ -5,7 +5,7 @@
 <!--[if (gte IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Accueil</title>
+<title>Inscription</title>
 <link rel="stylesheet" type="text/css" href="style1.css" />
 
 </head>
